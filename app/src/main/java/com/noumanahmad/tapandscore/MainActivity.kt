@@ -66,6 +66,9 @@ fun MainScreen(navController: NavController) {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
+        Text(text ="Tap and Score",
+            modifier = Modifier.padding(16.dp)
+        )
         Button(onClick = { navController.navigate(Screen.GameScreen.route) }) {
             Text("Enter")
         }
