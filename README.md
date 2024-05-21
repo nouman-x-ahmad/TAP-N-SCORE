@@ -1,6 +1,6 @@
 # TAP'N'SCORE
 ## Introduction:
-   A game made in jetpackcompose acitivity using kotlin, in this game a player is tasked with tapping as many square as possible within one minute.
+   A simple yet fun game made in jetpackcompose acitivity using kotlin, in this game a player is tasked with tapping as many square as possible within one minute.
 ## HOW IT WORKS(WORKFLOW)
    - A PLAYER ENTERS GAME AND THEN HE IS SHOWN MENU SCREEN WHERE HE IS GIVEN OPTION OF:
    
